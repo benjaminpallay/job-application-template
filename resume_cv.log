@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.8.2)  11 AUG 2017 13:55
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.8.2)  13 AUG 2017 19:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1172,13 +1172,13 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
 (Font)              scaled to size 10.0pt on input line 24.
 ) (./cv-sections/skills.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 42.
+(Font)              scaled to size 10.0pt on input line 43.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 42.
+(Font)              scaled to size 10.0pt on input line 43.
 )
-(./cv-sections/experience.tex) [1
+(./cv-sections/experience.tex [1
 
-]
+]) [2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
  (./resume_cv.aux)
@@ -1188,10 +1188,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 94.
 Here is how much of TeX's memory you used:
  37474 strings out of 492998
  732724 string characters out of 6139962
- 928915 words of memory out of 5000000
+ 930773 words of memory out of 5000000
  40988 multiletter control sequences out of 15000+600000
  532666 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,11n,89p,10385b,549s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume_cv.pdf (1 page).
+Output written on resume_cv.pdf (2 pages).
